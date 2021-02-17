@@ -12,7 +12,7 @@
     "armv7",
     "i386"
   ],
-  "url": "https://github.com/tsightler/ring-mqtt-ha-addon",
+  "url": "https://github.com/broyuken/ring-mqtt-ha-addon",
   "image": "tsightler/ring-mqtt",
   "webui": "http://[HOST]:[PORT:55123]/",
   "ingress": true,
