@@ -34,7 +34,7 @@
   },
   "schema": {
     "enable_cameras": "bool",
-    "enable_snapshots": "bool",
+    "enable_snapshots": "str",
     "enable_modes": "bool",
     "enable_panic": "bool",
     "enable_volume": "bool",
